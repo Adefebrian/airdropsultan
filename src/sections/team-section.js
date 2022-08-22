@@ -18,7 +18,7 @@ const data = [
     imgSrc: Member1,
     altText: 'Ade Febrian',
     title: 'Ade Febrian',
-    designation: 'Founder & Community Manager',
+    designation: 'Founder & Marketing Manager',
     socialProfile: [
       {
         id: 1,
@@ -45,7 +45,7 @@ const data = [
     imgSrc: Member2,
     altText: 'Dexa',
     title: 'Dexa',
-    designation: 'Marketing Manager',
+    designation: 'Community Manager',
     socialProfile: [
       {
         id: 1,
